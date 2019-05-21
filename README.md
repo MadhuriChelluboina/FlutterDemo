@@ -1,16 +1,5 @@
 # custom_widget
 
-A new Flutter application.
+A Unit convertor application that runs successfully in both IOS and Android framework. Used Flutter.io framework to build this application. It is built with customized widgets and updates its state based on user interactions. Data (JSON format) is received and parsed from REST webservice API. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
